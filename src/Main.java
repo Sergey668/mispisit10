@@ -43,6 +43,6 @@ public class Main {
         System.out.println("- " + project1.getName() + "\n");
 
         System.out.println("Курсы, которые ведет лектор\"" + sapr.getName() + "\":");
-        System.out.println("- " + course1.getName());Ledfdef
+        System.out.println("- " + course1.getName());
     }
 }
